@@ -1,0 +1,10 @@
+# Use root/ifcebdii as user/password credentials
+services:
+  mysql:
+    image: mysql
+    container_name: mysql
+    restart: always
+    ports: 
+      - "3307:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: ifcebdii
