@@ -1,0 +1,7 @@
+operation_type,country,total_flights
+Origem,"UNITED STATES",109155
+Origem,CANADA,43738
+Origem,BRAZIL,29536
+Destino,"UNITED STATES",99169
+Destino,CANADA,40803
+Destino,BRAZIL,31529
